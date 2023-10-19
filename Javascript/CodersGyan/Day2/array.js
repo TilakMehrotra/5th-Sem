@@ -36,4 +36,6 @@
 
     // for (let i = 0; i < actors.length; i++ ) {
     //     console.log(actors[i]);
+
+    // I'm learning from coders gyan but I think that it will not be enough to from today onwards I will also learn from freeCodeCamp, Scrimba and a new platform called Exercism.org. Wish me luck.
     // }
