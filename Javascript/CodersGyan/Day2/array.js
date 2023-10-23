@@ -39,3 +39,4 @@
 
     // I'm learning from coders gyan but I think that it will not be enough to from today onwards I will also learn from freeCodeCamp, Scrimba and a new platform called Exercism.org. Wish me luck.
     // The Odin Project is also a very good resource.  
+    // array
